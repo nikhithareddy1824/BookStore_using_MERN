@@ -363,9 +363,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or need help:
 
-- 📧 **Email**: your-email@example.com
-- 🐛 **Issues**: [GitHub Issues](https://github.com/your-username/bookstore-app/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/your-username/bookstore-app/discussions)
+- 📧 **Email**: nikithareddy1824@gmail.com
 
 ---
 
@@ -373,6 +371,6 @@ If you have any questions or need help:
 
 **⭐ Star this repository if you found it helpful!**
 
-Made with ❤️ by [Your Name](https://github.com/your-username)
+Made with ❤️ by [Nikitha](https://github.com/nikithareddy1824)
 
 </div>
