@@ -10,7 +10,7 @@
 
 **A modern, responsive bookstore application built with Next.js, React, and TypeScript**
 
-[🚀 Live Demo](https://your-vercel-app.vercel.app) • [📖 Documentation](#documentation) • [🐛 Report Bug](https://github.com/your-username/bookstore-app/issues) • [✨ Request Feature](https://github.com/your-username/bookstore-app/issues)
+[🚀 Live Demo](https://book-store-using-mern-ck83.vercel.app/) • [📖 Documentation](#documentation) • [🐛 Report Bug](https://github.com/nikhithareddy1824/BookStore_using_MERN/issues) • [✨ Request Feature](https://github.com/nikhithareddy1824/BookStore_using_MERN/issues)
 
 </div>
 
